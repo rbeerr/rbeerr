@@ -1,13 +1,13 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Arbhie Menor</h1>
+<h1 align="center">Hi 👋, I'm Arbhie</h1>
 <h3 align="center">A frontend and UI/UX developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9dedc2109965247.5fe07b21476df.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbeer&label=Profile%20views&color=0e75b6&style=flat" alt="rbeer" /> </p>
 
-- 🔭 I’m currently working on **Farm Connect**
+- 🔭 I’m currently a **4th year BS Information Technology student from Mariano Marcos State University**
 
 - 🌱 I’m currently learning **MERN stack**
 
