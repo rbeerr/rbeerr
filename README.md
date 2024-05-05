@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a **4th year BS Information Technology student from Mariano Marcos State University**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently using and still learning **Laravel tech stack**
 
 - 📫 You can reach me at **arbhiemenor@gmail.com**
 
